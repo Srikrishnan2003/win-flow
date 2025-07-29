@@ -1,5 +1,4 @@
 # WinFlow
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Srikrishnan2003/win-flow.git)
 
 WinFlow is a simple yet powerful desktop application for building and exporting automation scripts for Windows. With an intuitive user interface, you can create a sequence of tasks, see a live preview of the corresponding script, and export it as a runnable AutoHotkey (`.ahk`) file.
 
